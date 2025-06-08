@@ -40,7 +40,7 @@ const headerHTML = `
             </div>
         </nav>
         <div class="menu2">
-            <img class="img_menu" src="icona.png" alt="">
+            <a href="index.html"><img class="img_menu" src="icona.png" alt=""></a>
             <div class="hamburger" id="hamburger">&#x2630;</div>
             <div class="side-menu" id="sideMenu">
                 <a href=""><img class="img_menu2" src="icona.png" alt=""></a>

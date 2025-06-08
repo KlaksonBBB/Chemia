@@ -53,3 +53,9 @@
     width: 60%;
     height: 600px;
 }
+@media screen and (max-width:767px) {
+    .sec1 iframe {
+        width: 90%;
+        height: 400px;
+    }
+}

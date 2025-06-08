@@ -43,7 +43,7 @@ const headerHTML = `
             <a href="index.html"><img class="img_menu" src="icona.png" alt=""></a>
             <div class="hamburger" id="hamburger">&#x2630;</div>
             <div class="side-menu" id="sideMenu">
-                <a href=""><img class="img_menu2" src="icona.png" alt=""></a>
+                <a href="index.html"><img class="img_menu2" src="icona.png" alt=""></a>
                 <a href="definicje.html">Definicje</a>
                 <a href="właściwości.html">Właściwości</a>
                 <a href="przykłady.html">Przykłady</a>

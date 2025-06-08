@@ -44,10 +44,10 @@ const headerHTML = `
             <div class="hamburger" id="hamburger">&#x2630;</div>
             <div class="side-menu" id="sideMenu">
                 <a href=""><img class="img_menu2" src="icona.png" alt=""></a>
-                <a href="./StronyWWW/strony.html">Definicje</a>
-                <a href="./portfolio/portfolio.html">Właściwości</a>
-                <a href="./cennik/cennik.html">Przykłady</a>
-                <a href="./kontakt/kontakt.html">Zagrożenia</a>
+                <a href="definicje.html">Definicje</a>
+                <a href="właściwości.html">Właściwości</a>
+                <a href="przykłady.html">Przykłady</a>
+                <a href="zagrożenia.html">Zagrożenia</a>
             </div>
         </div>
     </header>

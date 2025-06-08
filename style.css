@@ -1,0 +1,40 @@
+
+.sec1 {
+    display: grid;
+    grid-template-columns: 1fr;
+    place-items: center;
+}
+.sec1 h1 {
+    background:linear-gradient(#D8E8F2,#2A6BBF);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: 20px;
+    font-size: 27px;
+}
+@media screen and (max-width:767px) {
+    .sec1 h1 {
+        font-size: 21px;
+    } 
+}
+.sec1 p {
+    width: 50%;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 21px;
+}
+@media screen and (max-width:767px) {
+    .sec1 p {font-size: 17px;
+    }
+}
+
+.video_set {
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    margin: 5px;
+}
+.video_set video {
+    width: 50%;
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px 10px #D8E8F2;
+}
